@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/maped/nces-side-concept-app/test-downloader/static/css/main.ae23be05.chunk.css",
+    "main.js": "/maped/nces-side-concept-app/test-downloader/static/js/main.1c1fefc4.chunk.js",
+    "main.js.map": "/maped/nces-side-concept-app/test-downloader/static/js/main.1c1fefc4.chunk.js.map",
+    "runtime-main.js": "/maped/nces-side-concept-app/test-downloader/static/js/runtime-main.492e0238.js",
+    "runtime-main.js.map": "/maped/nces-side-concept-app/test-downloader/static/js/runtime-main.492e0238.js.map",
+    "static/js/2.5e67b9c0.chunk.js": "/maped/nces-side-concept-app/test-downloader/static/js/2.5e67b9c0.chunk.js",
+    "static/js/2.5e67b9c0.chunk.js.map": "/maped/nces-side-concept-app/test-downloader/static/js/2.5e67b9c0.chunk.js.map",
+    "index.html": "/maped/nces-side-concept-app/test-downloader/index.html",
+    "precache-manifest.87f4eced7eb461015686bd99e0124ec0.js": "/maped/nces-side-concept-app/test-downloader/precache-manifest.87f4eced7eb461015686bd99e0124ec0.js",
+    "service-worker.js": "/maped/nces-side-concept-app/test-downloader/service-worker.js",
+    "static/css/main.ae23be05.chunk.css.map": "/maped/nces-side-concept-app/test-downloader/static/css/main.ae23be05.chunk.css.map",
+    "static/media/LA_County_101pts.csv": "/maped/nces-side-concept-app/test-downloader/static/media/LA_County_101pts.c4e2d234.csv",
+    "static/media/SIDE_5000_Random_Pts_ipr1317.csv": "/maped/nces-side-concept-app/test-downloader/static/media/SIDE_5000_Random_Pts_ipr1317.b2bf51b9.csv",
+    "static/media/logo.svg": "/maped/nces-side-concept-app/test-downloader/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.492e0238.js",
+    "static/js/2.5e67b9c0.chunk.js",
+    "static/css/main.ae23be05.chunk.css",
+    "static/js/main.1c1fefc4.chunk.js"
+  ]
+}
