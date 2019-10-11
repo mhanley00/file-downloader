@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/file-downloader/static/css/main.93275c83.chunk.css",
+    "main.js": "/file-downloader/static/js/main.5373991b.chunk.js",
+    "main.js.map": "/file-downloader/static/js/main.5373991b.chunk.js.map",
+    "runtime-main.js": "/file-downloader/static/js/runtime-main.02e866e4.js",
+    "runtime-main.js.map": "/file-downloader/static/js/runtime-main.02e866e4.js.map",
+    "static/js/2.5e67b9c0.chunk.js": "/file-downloader/static/js/2.5e67b9c0.chunk.js",
+    "static/js/2.5e67b9c0.chunk.js.map": "/file-downloader/static/js/2.5e67b9c0.chunk.js.map",
+    "index.html": "/file-downloader/index.html",
+    "precache-manifest.0a96a5a853c77bf8617157a5ad91f5ae.js": "/file-downloader/precache-manifest.0a96a5a853c77bf8617157a5ad91f5ae.js",
+    "service-worker.js": "/file-downloader/service-worker.js",
+    "static/css/main.93275c83.chunk.css.map": "/file-downloader/static/css/main.93275c83.chunk.css.map",
+    "static/media/LA_County_101pts.csv": "/file-downloader/static/media/LA_County_101pts.c4e2d234.csv",
+    "static/media/SIDE_5000_Random_Pts_ipr1317.csv": "/file-downloader/static/media/SIDE_5000_Random_Pts_ipr1317.b2bf51b9.csv",
+    "static/media/logo.svg": "/file-downloader/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e866e4.js",
+    "static/js/2.5e67b9c0.chunk.js",
+    "static/css/main.93275c83.chunk.css",
+    "static/js/main.5373991b.chunk.js"
+  ]
+}
